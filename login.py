@@ -6,6 +6,7 @@
 #
 # WARNING! All changes made in this file will be lost!
 # 修改测试git的检测功能
+# 修复bug
 
 from PyQt5 import QtCore, QtGui, QtWidgets
 from PyQt5.QtWidgets import QMessageBox
