@@ -6,8 +6,9 @@
 #
 # WARNING! All changes made in this file will be lost!
 # 修改测试git的检测功能
-# 修复bug
-# 添加bug分支,进行测试
+# bug已经修复
+# 新功能已经开发完毕
+
 from PyQt5 import QtCore, QtGui, QtWidgets
 from PyQt5.QtWidgets import QMessageBox
 import sys  # 导入sys模块
