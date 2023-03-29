@@ -7,6 +7,7 @@
 # WARNING! All changes made in this file will be lost!
 # 修改测试git的检测功能
 # 已经开辟新的分支dev,测试dev分支
+# 新功能已经开发完毕
 
 from PyQt5 import QtCore, QtGui, QtWidgets
 from PyQt5.QtWidgets import QMessageBox
